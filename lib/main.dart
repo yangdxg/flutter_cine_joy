@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_cine_joy/navigator/tab_navigator.dart';
+import 'package:flutter_cine_joy/pages/login_page.dart';
 
 void main() {
   runApp(const MyApp());
